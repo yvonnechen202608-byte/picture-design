@@ -1,0 +1,4 @@
+interface:
+  display_name: "留白实物涂鸦海报"
+  short_description: "生成高留白、实物摄影与黑线手绘小人融合的原创主题海报"
+  default_prompt: "使用 $airy-photo-doodle-poster 把我的主题做成一张原创的留白实物涂鸦海报。"
