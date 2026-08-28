@@ -2,8 +2,6 @@
 
 > 将任意主题、概念或产品，转译成“实物摄影 × 手绘涂鸦”的高留白主题海报。
 
-![Airy Photo Doodle Poster 封面](assets/cover.png)
-
 `airy-photo-doodle-poster` 是一个面向 Codex 的 AI 绘图 Skill。
 
 它会在更换主题和产品的同时，持续保留统一的视觉气质：
@@ -16,14 +14,6 @@
 - 轻盈、有趣、带一点编辑感的版式
 
 它学习的是一套抽象视觉规律，不会直接复制参考图片中的构图、文字、人物动作或品牌标识。
-
-## 效果预览
-
-<!-- 建议把生成案例放进 assets/examples/ -->
-
-| 产品海报 | 主题海报 | 横版封面 |
-| --- | --- | --- |
-| ![](assets/examples/product-poster.png) | ![](assets/examples/theme-poster.png) | ![](assets/examples/cover-example.png) |
 
 ## 视觉 DNA
 
@@ -91,18 +81,7 @@ git clone https://github.com/<你的GitHub用户名>/airy-photo-doodle-poster.gi
 保留产品的外形、结构、材质和颜色，
 重新设计构图、小人动作与中文手写标题。
 画面比例为 3:4。
-```
 
-### 公众号封面
-
-```text
-使用 $airy-photo-doodle-poster
-
-为“5分钟定制你的专属画风”制作一张微信公众号封面。
-比例为 2.35:1。
-标题：5分钟，定制你的专属画风
-副标题：AI 绘图 Skill · GitHub 开源
-```
 
 ### 抽象主题
 
