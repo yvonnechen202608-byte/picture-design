@@ -1,0 +1,7 @@
+interface:
+  display_name: "童真水彩绘本"
+  short_description: "把任意主题变成高留白、稚拙明快的原创水彩绘本插画"
+  brand_color: "#F1C232"
+  default_prompt: "使用 $naive-watercolor-picturebook，把我的主题生成一张原创的童真水彩绘本插画。"
+policy:
+  allow_implicit_invocation: true
