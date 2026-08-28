@@ -1,0 +1,7 @@
+interface:
+  display_name: "静默水粉符号"
+  short_description: "把任意主题转成高留白、低饱和、现代主义气质的极简水粉符号插画"
+  brand_color: "#667A7C"
+  default_prompt: "使用 $quiet-gouache-symbol，把我的主题生成一张原创的高留白极简水粉符号插画。"
+policy:
+  allow_implicit_invocation: true
