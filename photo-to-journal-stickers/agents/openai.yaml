@@ -1,0 +1,5 @@
+interface:
+  display_name: "手帐素材提取器"
+  short_description: "从任意照片提炼暖调复古的透明 PNG 手帐插画素材"
+  brand_color: "#B96B3D"
+  default_prompt: "使用 $photo-to-journal-stickers 把这张照片提炼为一组透明背景 PNG 手帐插画素材。"
