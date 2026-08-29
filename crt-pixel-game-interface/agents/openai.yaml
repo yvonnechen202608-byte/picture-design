@@ -1,0 +1,5 @@
+interface:
+  display_name: "CRT 像素游戏界面"
+  short_description: "把任意主题转译成可选色板的复古 CRT 像素游戏界面"
+  brand_color: "#25D6D2"
+  default_prompt: "Use $crt-pixel-game-interface to turn my image or theme into an original retro CRT pixel game interface, and let me choose the palette first."
