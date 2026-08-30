@@ -1,0 +1,5 @@
+interface:
+  display_name: "风味曲线饮品配方图"
+  short_description: "把饮品照片或文字主题转成高留白三材料风味曲线配方海报"
+  brand_color: "#6A3C32"
+  default_prompt: "使用 $flavor-curve-beverage-poster 把这张饮品照片制作成三材料风味曲线配方图。"
