@@ -1,0 +1,5 @@
+interface:
+  display_name: "高辨识动物面徽"
+  short_description: "把任意主题转成可做编辑卡片、徽章或贴纸的极简动物面孔"
+  brand_color: "#C96F5B"
+  default_prompt: "使用 $recognizable-animal-emblem，把这个主题转成一张高辨识度的原创极简动物面孔插画。"
