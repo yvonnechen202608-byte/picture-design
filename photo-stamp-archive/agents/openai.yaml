@@ -1,0 +1,5 @@
+interface:
+  display_name: "旅行刻印档案"
+  short_description: "把任意照片或主题变成摄影现场与小型刻印并置的旅行档案图"
+  brand_color: "#A75B43"
+  default_prompt: "使用 $photo-stamp-archive 把这个主题制作成左侧实景、右侧小型刻印的旅行档案图。"
