@@ -1,0 +1,6 @@
+interface:
+  display_name: "旅行冰箱贴摄影卡"
+  short_description: "把照片或任意主题转成高留白、轻插画的旅行冰箱贴摄影海报"
+  default_prompt: "使用 $travel-fridge-magnet-photo-card 把这张照片制作成一张上下分区的旅行冰箱贴摄影海报。"
+policy:
+  allow_implicit_invocation: true
