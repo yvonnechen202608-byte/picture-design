@@ -1,6 +1,0 @@
-interface:
-  display_name: "微信动态表情包生成器"
-  short_description: "制作精细五官肢体动画和个性化配套图的微信表情素材"
-  default_prompt: "使用 $wechat-emotion-sticker-pack 将这张照片制作成8张五官与四肢自然联动、至少12成品帧、带小字动效和克制情绪装饰的微信GIF表情，并从原图提取色彩、场景与道具线索设计个性化封面、图标、横幅和赞赏图。"
-policy:
-  allow_implicit_invocation: true
