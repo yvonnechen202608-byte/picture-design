@@ -1,0 +1,7 @@
+interface:
+  display_name: "双语食材流程信息图"
+  short_description: "把菜品照片或菜名转成带双语菜名的白底食材与烹饪流程信息图"
+  default_prompt: "使用 $food-knolling-infographic，把这道菜制作成带中英双语菜名的白底食材流程信息图。"
+
+policy:
+  allow_implicit_invocation: true
