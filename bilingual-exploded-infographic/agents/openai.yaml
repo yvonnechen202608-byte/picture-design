@@ -1,0 +1,5 @@
+interface:
+  display_name: "双语悬浮分解信息图"
+  short_description: "把菜品照片或任意主题转成中英双语写实悬浮爆炸分解信息图"
+  brand_color: "#D49A43"
+  default_prompt: "使用 $bilingual-exploded-infographic，把这个主题制作成中英双语的写实悬浮分解信息图。"
