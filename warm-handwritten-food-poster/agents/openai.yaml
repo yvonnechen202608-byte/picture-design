@@ -1,0 +1,4 @@
+interface:
+  display_name: "暖白手写菜品海报"
+  short_description: "把菜品照片转成全中文暖白纸感手写水彩介绍海报并保持大留白"
+  default_prompt: "使用 $warm-handwritten-food-poster，把这道菜制作成全中文手写水彩介绍海报。"
