@@ -1,0 +1,8 @@
+interface:
+  display_name: "棕橙手绘中文菜谱"
+  short_description: "用棕橙导航与水彩食物制作全中文食材步骤海报"
+  brand_color: "#F29A2E"
+  default_prompt: "使用 $chinese-hand-drawn-recipe-poster，把这道菜制作成棕橙色中文手绘食材步骤海报。"
+
+policy:
+  allow_implicit_invocation: true
